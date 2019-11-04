@@ -1,5 +1,7 @@
 # Appium and SauceLabs End to End Testing Example
 
+Testing your Android and iOS apps on real devices at scale.
+
 # Requirements
     - Python 3.7+
     - Pipenv recommmended
